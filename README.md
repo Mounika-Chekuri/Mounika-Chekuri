@@ -2,7 +2,7 @@
  I'm a passionate Software Engineer, exploring genAI
 ## <h1 align="center">TECHNICAL SKILLS</h1>    
 + Languages: Java, Python, Java Script
-+ Frameworks: Springboot, Django, Flask
++ Frameworks: Springboot, React, Django, Flask
 + Databases: MySQL, MS SQL Server, CosmosDb
 + Data Analysis & Visualization: Numpy, Pandas
 + Deep Learning & Machine Learning: PyTorch, NLP
