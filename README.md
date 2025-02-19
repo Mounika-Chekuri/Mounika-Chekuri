@@ -5,7 +5,7 @@
 I'm a **Software Engineer** passionate about building scalable applications using **Java, Spring Boot, ReactJS, and Cloud Technologies**. Whether it's developing enterprise applications, optimizing cloud infrastructure, or experimenting with Generative AI, I love turning complex challenges into innovative solutions.  
 
 🎓 **Education:** M.S. in Computer Science (Texas Tech University, 2022-2024)  
-💼 **Previously at:** General Motors, OpenText, Mentor Graphics, Texas Tech University  
+
 
 ## 💡 What I’m Passionate About  
 - ☁️ **Cloud & AI:** Exploring AWS, Azure, and AI-driven solutions for automation and optimization.  
