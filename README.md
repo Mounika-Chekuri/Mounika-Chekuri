@@ -37,4 +37,4 @@ I'm a **Software Engineer** passionate about building scalable applications usin
 
 ## 🌐 Let's Connect!  
 📧 **Email:** mounika30.ch@gmail.com 
-💼 **LinkedIn:** https://linkedin.com/in/mounikachekuri)  ](https://www.linkedin.com/in/mounika-chekuri/)
+💼 **LinkedIn:** Mounika-Chekuri(https://www.linkedin.com/in/mounika-chekuri/)
