@@ -18,12 +18,33 @@ I'm a **Software Engineer** passionate about building scalable applications usin
 - 📊 **IBM Data Engineering Certification**  
 - 🧠 **Google Certified: Generative AI & LLMs**  
 
-## 💻 Tech Stack  
-**Languages:** Java, Python, JavaScript (ReactJS), TypeScript  
-**Backend:** Spring Boot, Spring Security, OAuth 2.0, RESTful APIs  
-**Databases:** SQL (Oracle, PostgreSQL), NoSQL (CosmosDB, MongoDB)  
-**DevOps & Tools:** Docker, Jenkins, Git, CI/CD, Kafka, MQTT  
+## 🚀 Technologies & Tools  
 
+### 🖥️ Languages  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+
+### ⚙️ Backend  
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)  
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat&logo=spring&logoColor=white)  
+![OAuth 2.0](https://img.shields.io/badge/-OAuth%202.0-1A73E8?style=flat&logo=oauth&logoColor=white)  
+![RESTful APIs](https://img.shields.io/badge/-REST%20APIs-FF6F00?style=flat&logo=postman&logoColor=white)  
+
+### 🗄️ Databases  
+![Oracle](https://img.shields.io/badge/-Oracle%20DB-F80000?style=flat&logo=oracle&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
+![CosmosDB](https://img.shields.io/badge/-Cosmos%20DB-0078D4?style=flat&logo=azure-cosmos-db&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+
+### 🛠️ DevOps & Tools  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![CI/CD](https://img.shields.io/badge/-CI/CD-0A192F?style=flat&logo=githubactions&logoColor=white)  
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)  
+![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat&logo=eclipse-mosquitto&logoColor=white)  
 ## 🌱 Current Projects & Fun Stuff  
 - 🚴 **Building a Mountain Biking Trails Finder** – A website to help users find US biking trails using mapping APIs.  
 - 🤖 **BeSA GEN-AI WorkShop** – Currently enrolled in AWS GEN-AI Workshop 
