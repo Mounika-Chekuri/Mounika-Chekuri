@@ -36,6 +36,7 @@ I'm a **Software Engineer** passionate about building scalable applications usin
 - Mentored peers and juniors, helping them enhance their coding skills and problem-solving abilities.  
 
 ## 🌐 Let's Connect!  
- [![LinkedIn | Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mounikachekuri)
+[![LinkedIn | Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mounika-chekuri/)
+
 📧 **Email:** mounika30.ch@gmail.com 
 
