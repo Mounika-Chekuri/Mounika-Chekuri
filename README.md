@@ -4,12 +4,11 @@
 ## 🌟 A Little About Me  
 I'm a **Software Engineer** passionate about building scalable applications using **Java, Spring Boot, ReactJS, and Cloud Technologies**. Whether it's developing enterprise applications, optimizing cloud infrastructure, or experimenting with Generative AI, I love turning complex challenges into innovative solutions.  
 
-🎓 **Education:** M.S. in Computer Science (Texas Tech University, 2022-2024)  
+🎓 **Education:** M.S. in Computer Science (Texas Tech University)  
 
 
 ## 💡 What I’m Passionate About  
-- ☁️ **Cloud & AI:** Exploring AWS, Azure, and AI-driven solutions for automation and optimization.  
-- 📊 **Big Data & Analytics:** Worked with Databricks, Apache Flink, and CosmosDB for large-scale data processing.  
+- ☁️ **Cloud & AI:** Exploring AWS, Azure, and AI-driven solutions for automation and optimization. 
 - 🛠 **Building Scalable Applications:** From microservices to event-driven architectures, I enjoy crafting efficient systems.  
 - 🔍 **Problem-Solving & Optimization:** Whether debugging complex systems or improving workflows, I thrive on challenges.  
 
