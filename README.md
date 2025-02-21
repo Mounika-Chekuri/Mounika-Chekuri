@@ -2,7 +2,7 @@
 🚀 **Full Stack Java Developer | ☁️ Cloud Enthusiast | 🤖 AI Explorer**  
 
 ## 🌟 A Little About Me  
-I'm a **Software Engineer** passionate about building scalable applications using **Java, Spring Boot, ReactJS, and Cloud Technologies**. Whether it's developing enterprise applications, optimizing cloud infrastructure, or experimenting with Generative AI, I love turning complex challenges into innovative solutions.  
+I'm a **Software Engineer** passionate about building scalable applications using **Java, Spring Boot, ReactJS, and Cloud Technologies(AWS,Azure)**. Whether it's developing enterprise applications, optimizing cloud infrastructure, or experimenting with Generative AI, I love turning complex challenges into innovative solutions.  
 
 🎓 **Education:** M.S. in Computer Science (Texas Tech University)  
 
