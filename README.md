@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Mounika Chekuri!  
+# 👋 Hey there, I'm Mounika Chekuri!
 🚀 **Full Stack Java Developer | ☁️ Cloud Enthusiast | 🤖 AI Explorer**
 
 ## 🌟 A Little About Me  
